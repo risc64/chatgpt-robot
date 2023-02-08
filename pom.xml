@@ -11,7 +11,7 @@
     
     <modules>
         <module>chatgpt-robot-domain</module>
-        <module>chatgpt-robot-interfaces</module>
+        <module>chatgpt-robot-interface</module>
         <module>chatgpt-robot-infrastructure</module>
         <module>chatgpt-robot-application</module>
     </modules>
